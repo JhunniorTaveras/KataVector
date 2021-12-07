@@ -22,7 +22,7 @@ namespace ConsoleVector
             int Y2 = Convert.ToInt32(Console.ReadLine());
 
             VectorClass vectorOne = new(X1,Y1);
-            VectorClass vectorTwo = new(X1, Y1);
+            VectorClass vectorTwo = new(X2, Y2);
 
             Console.WriteLine();
             Console.WriteLine("----------------------------");
