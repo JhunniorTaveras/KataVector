@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleVector/1.0.0": {
+        "dependencies": {
+          "Vector": "3.0.0"
+        },
+        "runtime": {
+          "ConsoleVector.dll": {}
+        }
+      },
+      "Vector/3.0.0": {
+        "runtime": {
+          "lib/net5.0/Vector.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleVector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vector/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8w7Cpemk5k5Ca5hv288sfGScQQjuX8nKV/XMyllxX35goIkH5PTMxZkhPFilCrP/smU22gMRITK/xdaJ+uUdfQ==",
+      "path": "vector/3.0.0",
+      "hashPath": "vector.3.0.0.nupkg.sha512"
+    }
+  }
+}

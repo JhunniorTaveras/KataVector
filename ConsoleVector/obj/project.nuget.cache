@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O8NhPdVGjoEeBjeM/P/GpV95A/3Jxl3aqaNPziq3DBAUrVqns/ZyAdv4fM9sLaHKD5juOyQjpKAt+8HwyaP+Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jtave\\source\\repos\\KataVectors\\ConsoleVector\\ConsoleVector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jtave\\.nuget\\packages\\vector\\3.0.0\\vector.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
