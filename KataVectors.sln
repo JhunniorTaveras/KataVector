@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataVectors", "KataVectors\KataVectors.csproj", "{F17DDA35-D52F-4814-A330-542FF45DE9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector", "Vector\Vector.csproj", "{1D382004-2DD8-4F74-A37B-37ADD79A4827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F17DDA35-D52F-4814-A330-542FF45DE9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17DDA35-D52F-4814-A330-542FF45DE9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17DDA35-D52F-4814-A330-542FF45DE9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17DDA35-D52F-4814-A330-542FF45DE9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D382004-2DD8-4F74-A37B-37ADD79A4827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D382004-2DD8-4F74-A37B-37ADD79A4827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D382004-2DD8-4F74-A37B-37ADD79A4827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D382004-2DD8-4F74-A37B-37ADD79A4827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E096D28C-01E5-4062-891E-FFFE220B3884}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\jtave\source\repos\KataVectors\Vector\bin\Debug\net5.0\Vector.deps.json
+C:\Users\jtave\source\repos\KataVectors\Vector\bin\Debug\net5.0\Vector.dll
+C:\Users\jtave\source\repos\KataVectors\Vector\bin\Debug\net5.0\ref\Vector.dll
+C:\Users\jtave\source\repos\KataVectors\Vector\bin\Debug\net5.0\Vector.pdb
+C:\Users\jtave\source\repos\KataVectors\Vector\obj\Debug\net5.0\Vector.csproj.AssemblyReference.cache
+C:\Users\jtave\source\repos\KataVectors\Vector\obj\Debug\net5.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtave\source\repos\KataVectors\Vector\obj\Debug\net5.0\Vector.AssemblyInfoInputs.cache
+C:\Users\jtave\source\repos\KataVectors\Vector\obj\Debug\net5.0\Vector.AssemblyInfo.cs
+C:\Users\jtave\source\repos\KataVectors\Vector\obj\Debug\net5.0\Vector.csproj.CoreCompileInputs.cache
+C:\Users\jtave\source\repos\KataVectors\Vector\obj\Debug\net5.0\Vector.dll
+C:\Users\jtave\source\repos\KataVectors\Vector\obj\Debug\net5.0\ref\Vector.dll
+C:\Users\jtave\source\repos\KataVectors\Vector\obj\Debug\net5.0\Vector.pdb
